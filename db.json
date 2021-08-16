@@ -1,12 +1,7 @@
-
 {
   "users": [
     { "name": "Pedro", "pass": "aaaa" },
     { "name": "Carlos", "pass": "bbbb" },
     { "name": "Pablo", "pass": "cccc" }
-  ],
-  "vinyls": [
-    { "id": 1, "artist": ["Pablo Castilla"], "title": "aaaa", "gender": ["aa", "bb", "cc"] },
-    { "id": 2, "artist": ["Sara Leon"], "title": "bbbb", "gender": ["aa", "bb", "cc"] }
   ]
 }
