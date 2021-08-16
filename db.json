@@ -1,11 +1,16 @@
 {
   "users": [
-    { "name": "Pedro", "username":"ped123", "pass": "aaaa" },
+    { "name": "Jesus", "username":"jes123", "pass": "aaaa" },
     { "name": "Carlos", "username":"car123", "pass": "bbbb" },
-    { "name": "Pablo", "username":"nam123", "pass": "cccc" }
+    { "name": "Pablo", "username":"pab123", "pass": "cccc" }
   ],
   "vinyls": [
-    { "id": 1, "artist": "Pablo Castilla", "title": "aaaa", "gender": "aa" },
-    { "id": 2, "artist": "Sara Leon", "title": "bbbb", "gender": "bb" }
+    { "id": 1, "artist": "Israel Fernandez", "title": "Amor", "gender": "Flamenco" },
+    { "id": 2, "artist": "Antonios Reyes", "title": "Que suene el cante", "gender": "Flamenco" }
+  ]
+  ,
+  "watch": [
+    { "id": 1, "artist": "Camaron", "title": "La leyenda del tiempo", "gender": "Flamenco" },
+    { "id": 2, "artist": "Entique Morente", "title": "Omega", "gender": "Flamenco" }
   ]
 }
