@@ -1,15 +1,12 @@
 
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "users": [
+    { "name": "Pedro", "pass": "aaaa" },
+    { "name": "Carlos", "pass": "bbbb" },
+    { "name": "Pablo", "pass": "cccc"" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "vinyls": [
+    { "id": 1, "artist": ["Pablo Castilla"], "title": "aaaa", "gender": ["aa", "bb", "cc"] },
+    { "id": 2, "artist": ["Sara Leon"], "title": "bbbb", "gender": ["aa", "bb", "cc"] },
+  ]
 }
